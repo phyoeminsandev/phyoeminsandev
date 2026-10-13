@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Phyoe Min San</h1>
-<h3 align="center">A passionate Backend & Full Stack Developer from Myanmar 🇲🇲</h3>
+<h3 align="center">Junior Backend Developer | PHP & Laravel Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-brightgreen?style=flat" alt="Status" />
-  <img src="https://img.shields.io/badge/Fun%20Fact-Full%20Stack%20Developer-orange?style=flat" alt="Fun Fact" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=flat" alt="Focus" />
 </p>
+
+> *"Building robust backend systems, scalable APIs, and clean database architectures."*
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)**
-- 🌱 I’m currently learning **React.js**
-- 👯 I’m looking to collaborate on **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
-- 🤝 I’m looking for help with **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
-- 💬 Ask me about **PHP, Laravel, MySQL, and Backend Development**
-- 📫 How to reach me **phyoeminsan809@gmail.com**
+### 👨‍💻 Professional Overview
+
+- 🔭 I’m currently working on: **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)** using PHP, Laravel, and MySQL.
+- 🌱 I’m currently learning: **React.js**, advanced backend optimization, and clean architecture principles.
+- 👯 I’m looking to collaborate on: **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**, open-source PHP projects, or backend API challenges.
+- 🤝 I’m looking for help with: System design, database optimization, and scalable web application structures.
+- 💬 Ask me about: **PHP, Laravel, MySQL, Git, and Backend Development workflows**.
+- 📫 How to reach me: **phyoeminsan809@gmail.com**
 
 ---
 
