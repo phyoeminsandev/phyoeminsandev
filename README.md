@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
 - 🤝 I’m looking for help with **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
 - 💬 Ask me about **PHP, Laravel, MySQL, and Backend Development**
-- 📫 How to reach me **phyoeminsan805@gmail.com**
+- 📫 How to reach me **phyoeminsan809@gmail.com**
 
 ---
 
@@ -33,8 +33,8 @@
 ---
 
 ### 🌟 Featured Projects
-- **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)** - ကျောင်းသားအဆောင်များကို စနစ်တကျ စီမံခန့်ခွဲနိုင်ရန် ဖန်တီးထားသော Application။
-- **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)** - E-Commerce စနစ်တစ်ခုဖြစ်ပြီး ပူးပေါင်းပါဝင်လိုသူများကို ဖိတ်ခေါ်ပါတယ်။
+- **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)** - An application created to systematically manage student hostels.
+- **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)** - An e-commerce system, and contributors/collaborators are welcome.
 
 ---
 
