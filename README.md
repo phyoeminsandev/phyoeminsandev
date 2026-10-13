@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend & Full Stack Developer from Myanmar 🇲🇲</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&label=Profile%20views&color=0e75b6&style=flat" alt="phyoeminsandev" />
+  ![Phyoeminsandev](https://img.shields.io/badge/Status-Exploring%20New%20Tech-brightgreen)
   <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-brightgreen?style=flat" alt="Status" />
   <img src="https://img.shields.io/badge/Fun%20Fact-Full%20Stack%20Developer-orange?style=flat" alt="Fun Fact" />
 </p>
