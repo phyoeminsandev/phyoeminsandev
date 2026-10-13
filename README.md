@@ -45,11 +45,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phyoeminsandev&theme=radical" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=phyoeminsandev&theme=radical" alt="GitHub Streak" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phyoeminsandev&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=phyoeminsandev&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
