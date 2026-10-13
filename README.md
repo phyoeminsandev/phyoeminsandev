@@ -48,17 +48,6 @@
   <img src="https://streak-stats.demolab.com?user=phyoeminsandev&theme=radical" alt="GitHub Streak" width="98%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phyoeminsandev&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 GitHub Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phyoeminsandev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
-
 ---
 
 <h3 align="left">Connect with me:</h3>
