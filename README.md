@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phyoe Min San</h1>
-<h3 align="center">Junior Backend Developer | PHP & Laravel Developer</h3>
+<h3 align="center">Junior Web Developer | PHP & Laravel Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-brightgreen?style=flat" alt="Status" />
