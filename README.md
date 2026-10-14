@@ -6,6 +6,17 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=flat" alt="Focus" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/GitHub-Trophy-informational?style=flat-square&logo=github" alt="GitHub Trophy" /></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/phyoeminsan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 > *"Building robust backend systems, scalable APIs, and clean database architectures."*
 
 ---
@@ -51,8 +62,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/phyoeminsan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phyoeminsan" height="30" width="40" /></a>
-  <a href="https://twitter.com/minsan12526" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minsan12526" height="30" width="40" /></a>
-  <a href="https://fb.com/phyoeminsandev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phyoeminsandev" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/phyoeminsan-i7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="phyoeminsan-i7" height="30" width="40" /></a>
+  <a href="https://youtube.com/c/phyoeminsan-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://twitter.com/minsan12526" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
