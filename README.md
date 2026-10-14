@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphyoeminsandev&count_bg=%232EA44F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
   <a href="https://github.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/GitHub-Trophy-informational?style=flat-square&logo=github" alt="GitHub Trophy" /></a>
 </p>
 
