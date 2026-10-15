@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phyoe Min San</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&color=007ec6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/phyoeminsandev/phyoeminsandev.json?color=brightgreen" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-0e1116?style=flat-square&color=2ea043" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-0e1116?style=flat-square&color=1f6feb" alt="Focus" />
 </p>
