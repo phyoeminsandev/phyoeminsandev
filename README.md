@@ -1,33 +1,57 @@
 <h1 align="center">Hi 👋, I'm Phyoe Min San</h1>
-<h3 align="center">Junior Backend Developer | PHP & Laravel Developer</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-brightgreen?style=flat" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=flat" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&color=007ec6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-0e1116?style=flat-square&color=2ea043" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-0e1116?style=flat-square&color=1f6feb" alt="Focus" />
 </p>
 
-> *"Building robust backend systems, scalable APIs, and clean database architectures."*
+<p align="center">
+  <a href="https://www.linkedin.com/in/phyoe-min-san-ba018b370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@phyoeminsandev-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://twitter.com/minsan12526" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
 ---
 
-### 👨‍💻 Professional Overview
+### 💻 About Me
+> *Junior Web Developer & Backend Enthusiast focused on building robust web applications, scalable APIs, and clean database architectures.*
 
-- 🔭 I’m currently working on: **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)** using PHP, Laravel, and MySQL.
-- 🌱 I’m currently learning: **React.js**, advanced backend optimization, and clean architecture principles.
-- 👯 I’m looking to collaborate on: **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**, open-source PHP projects, or backend API challenges.
-- 🤝 I’m looking for help with: System design, database optimization, and scalable web application structures.
-- 💬 Ask me about: **PHP, Laravel, MySQL, Git, and Backend Development workflows**.
-- 📫 How to reach me: **phyoeminsan809@gmail.com**
+- 🔭 I’m currently working on **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)**
+- 🌱 I’m currently learning **React.js & Advanced Backend Patterns**
+- 👯 I’m looking to collaborate on **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
+- 💬 Ask me about **PHP, Laravel, MySQL, and Backend Workflows**
+- 📫 How to reach me **phyoeminsan805@gmail.com**
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & DB** | <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30" alt="PHP"/></a> &nbsp; <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30" height="30" alt="Laravel"/></a> &nbsp; <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" alt="MySQL"/></a> |
-| **Frontend & UI** | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/></a> &nbsp; <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30" alt="React"/></a> &nbsp; <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30" alt="Bootstrap"/></a> &nbsp; <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" alt="Tailwind"/></a> |
-| **Tools & Design** | <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" alt="Git"/></a> &nbsp; <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30" alt="Figma"/></a> &nbsp; <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="30" height="30" alt="Photoshop"/></a> &nbsp; <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="30" height="30" alt="Illustrator"/></a> |
+#### ⚙️ Backend & Database
+<p align="left">
+  <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+</p>
+
+#### 🎨 Frontend & UI
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
+</p>
+
+#### 🧰 Tools & Design
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></a>
+</p>
 
 ---
 
@@ -37,7 +61,7 @@
 
 ---
 
-### 📊 GitHub Stats & Analytics
+### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phyoeminsandev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="phyoeminsandev stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyoeminsandev&layout=compact&theme=radical&langs_count=7" alt="top languages" width="48%" />
@@ -45,14 +69,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=phyoeminsandev&theme=radical" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/phyoeminsan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phyoeminsan" height="30" width="40" /></a>
-  <a href="https://twitter.com/minsan12526" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minsan12526" height="30" width="40" /></a>
-  <a href="https://fb.com/phyoeminsandev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phyoeminsandev" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/phyoeminsan-i7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="phyoeminsan-i7" height="30" width="40" /></a>
 </p>
