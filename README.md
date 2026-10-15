@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Phyoe Min San</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Hi%20👋,%20I'm%20Phyoe%20Min%20San&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="Header Banner" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
