@@ -1,34 +1,27 @@
 <h1 align="center">Hi 👋, I'm Phyoe Min San</h1>
-<h3 align="center">Junior Web Developer | PHP & Laravel Developer</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-brightgreen?style=flat" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=flat" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&color=007ec6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-0e1116?style=flat-square&color=2ea043" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-0e1116?style=flat-square&color=1f6feb" alt="Focus" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/phyoeminsandev/phyoeminsandev.json?color=brightgreen" alt="Profile Views" />
-  <a href="https://github.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/GitHub-Trophy-informational?style=flat-square&logo=github" alt="GitHub Trophy" /></a>
-</p>
-
-<p align="center">
- <a href="https://www.linkedin.com/in/phyoe-min-san-ba018b370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/phyoe-min-san-ba018b370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://fb.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@phyoeminsan-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://twitter.com/minsan12526" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
-
-> *"Building robust backend systems, scalable APIs, and clean database architectures."*
 
 ---
 
-### 👨‍💻 Professional Overview
+### 💻 About Me
+> *Junior Web Developer & Backend Enthusiast focused on building robust web applications, scalable APIs, and clean database architectures.*
 
-- 🔭 I’m currently working on: **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)** using PHP, Laravel, and MySQL.
-- 🌱 I’m currently learning: **React.js**, advanced backend optimization, and clean architecture principles.
-- 👯 I’m looking to collaborate on: **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**, open-source PHP projects, or backend API challenges.
-- 🤝 I’m looking for help with: System design, database optimization, and scalable web application structures.
-- 💬 Ask me about: **PHP, Laravel, MySQL, Git, and Backend Development workflows**.
-- 📫 How to reach me: **phyoeminsan805@gmail.com**
+- 🔭 I’m currently working on **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)**
+- 🌱 I’m currently learning **React.js & Advanced Backend Patterns**
+- 👯 I’m looking to collaborate on **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
+- 💬 Ask me about **PHP, Laravel, MySQL, and Backend Workflows**
+- 📫 How to reach me **phyoeminsan805@gmail.com**
 
 ---
 
@@ -48,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats & Analytics
+### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phyoeminsandev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="phyoeminsandev stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyoeminsandev&layout=compact&theme=radical&langs_count=7" alt="top languages" width="48%" />
@@ -56,12 +49,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=phyoeminsandev&theme=radical" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.youtube.com/@phyoeminsan-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://twitter.com/@minsan12526" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
