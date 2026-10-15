@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Phyoe Min San</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Hi%20👋,%20I'm%20Phyoe%20Min%20San&fontSize=42&fontColor=ffffff&fontAlignY=35" alt="Header Banner" />
+</p>
+
+<h3 align="center"><font color="#4364F7">Computer Science Student</font> | Junior Web & Backend Developer</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&color=007ec6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-0e1116?style=flat-square&color=2ea043" alt="Status" />
@@ -8,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/phyoe-min-san-ba018b370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://fb.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.youtube.com/@phyoeminsandev-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@phyoeminsan-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://twitter.com/minsan12526" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
