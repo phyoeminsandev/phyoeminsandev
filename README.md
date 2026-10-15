@@ -1,6 +1,8 @@
+<h1 align="center">Hi 👋, I'm Phyoe Min San</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4364F7&center=true&vCenter=true&width=600&height=70&lines=Hey,+I'm+Phyoe+Min+San+%F0%9F%90%8B;Computer+Science+Student;Full-Stack+%26+Backend+Developer;PHP+%26+Laravel+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4364F7&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+%26+Backend+Developer;PHP+%26+Laravel+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
