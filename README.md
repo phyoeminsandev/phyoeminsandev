@@ -62,6 +62,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://youtube.com/c/phyoeminsan-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="[https://youtube.com/c/phyoeminsan-i7](https://www.youtube.com/@phyoeminsan-i7)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://twitter.com/minsan12526" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
