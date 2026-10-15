@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Hi%20👋,%20I'm%20Phyoe%20Min%20San&fontSize=42&fontColor=ffffff&fontAlignY=35" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Hey,%20I'm%20Phyoe%20Min%20San%20👋&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20Backend%20Developer%20%7C%20PHP%20%26%20Laravel%20Enthusiast&descSize=16&descAlignY=55" alt="Header Banner" />
 </p>
-
-<h3 align="center"><font color="#4364F7">Computer Science Student</font> | Junior Web & Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&color=007ec6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -13,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/phyoe-min-san-ba018b370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://fb.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.youtube.com/@phyoeminsan-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@phyoeminsandev-i7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://twitter.com/minsan12526" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
