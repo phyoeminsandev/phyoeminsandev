@@ -26,11 +26,14 @@
 ### 💻 About Me
 > *Junior Web Developer & Backend Enthusiast focused on building robust web applications, scalable APIs, and clean database architectures.*
 
-- 🔭 I’m currently working on **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)**
-- 🌱 I’m currently learning **React.js & Advanced Backend Patterns**
-- 👯 I’m looking to collaborate on **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
-- 💬 Ask me about **PHP, Laravel, MySQL, and Backend Workflows**
-- 📫 How to reach me **phyoeminsan805@gmail.com**
+### 👨‍💻 Professional Overview
+
+- 🔭 I’m currently working on: **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)** using PHP, Laravel, and MySQL.
+- 🌱 I’m currently learning: **React.js**, advanced backend optimization, and clean architecture principles.
+- 👯 I’m looking to collaborate on: **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**, open-source PHP projects, or backend API challenges.
+- 🤝 I’m looking for help with: System design, database optimization, and scalable web application structures.
+- 💬 Ask me about: **PHP, Laravel, MySQL, Git, and Backend Development workflows**.
+- 📫 How to reach me: **phyoeminsan805@gmail.com**
 
 ---
 
