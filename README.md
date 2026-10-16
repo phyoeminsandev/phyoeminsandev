@@ -23,13 +23,6 @@
 
 ---
 
-### 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phyoeminsandev&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4" alt="phyoeminsandev trophies" />
-</p>
-
----
-
 ### 💻 About Me
 > *Junior Web Developer & Backend Enthusiast focused on building robust web applications, scalable APIs, and clean database architectures.*
 
