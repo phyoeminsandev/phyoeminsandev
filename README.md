@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phyoeminsandev&color=007ec6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-22%2C345-007EC6?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-0e1116?style=flat-square&color=2ea043" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-0e1116?style=flat-square&color=1f6feb" alt="Focus" />
 </p>
