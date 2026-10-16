@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Hi%20👋,%20I'm%20Phyoe%20Min%20San&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4364F7&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+%26+Backend+Developer;PHP+%26+Laravel+Enthusiast" alt="Typing SVG" />
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm Phyoe Min San</h1>
+  <h3><font color="#2f81f7">💻 Computer Science Student | Full-Stack & Backend Developer</font></h3>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/phyoeminsandev/phyoeminsandev.json?color=007EC6&style=flat-square&label=Profile%20Views" alt="Profile Views" />
