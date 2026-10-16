@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4364F7&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+%26+Backend+Developer;PHP+%26+Laravel+Enthusiast" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4364F7&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+%26+Backend+Developer;PHP+%26+Laravel+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning **React.js & Advanced Backend Patterns**
 - 👯 I’m looking to collaborate on **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
 - 💬 Ask me about **PHP, Laravel, MySQL, and Backend Workflows**
-- 📫 How to reach me **phyoeminsan890@gmail.com**
+- 📫 How to reach me **phyoeminsan805@gmail.com**
 
 ---
 
