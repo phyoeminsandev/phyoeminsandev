@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4364F7&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+%26+Backend+Developer;PHP+%26+Laravel+Enthusiast" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4364F7&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+%26+Backend+Developer;PHP+%26+Laravel+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-22%2C345-007EC6?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/phyoeminsandev/phyoeminsandev.json?color=007EC6&style=flat-square&label=Profile%20Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-0e1116?style=flat-square&color=2ea043" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-0e1116?style=flat-square&color=1f6feb" alt="Focus" />
 </p>
@@ -23,17 +21,21 @@
 
 ---
 
+### 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phyoeminsandev&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4" alt="phyoeminsandev trophies" />
+</p>
+
+---
+
 ### 💻 About Me
 > *Junior Web Developer & Backend Enthusiast focused on building robust web applications, scalable APIs, and clean database architectures.*
 
-### 👨‍💻 Professional Overview
-
-- 🔭 I’m currently working on: **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)** using PHP, Laravel, and MySQL.
-- 🌱 I’m currently learning: **React.js**, advanced backend optimization, and clean architecture principles.
-- 👯 I’m looking to collaborate on: **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**, open-source PHP projects, or backend API challenges.
-- 🤝 I’m looking for help with: System design, database optimization, and scalable web application structures.
-- 💬 Ask me about: **PHP, Laravel, MySQL, Git, and Backend Development workflows**.
-- 📫 How to reach me: **phyoeminsan805@gmail.com**
+- 🔭 I’m currently working on **[Student Hostel Management](https://github.com/phyoeminsandev/hostel-application)**
+- 🌱 I’m currently learning **React.js & Advanced Backend Patterns**
+- 👯 I’m looking to collaborate on **[Hein Shop](https://github.com/phyoeminsandev/HeinShop)**
+- 💬 Ask me about **PHP, Laravel, MySQL, and Backend Workflows**
+- 📫 How to reach me **phyoeminsan890@gmail.com**
 
 ---
 
