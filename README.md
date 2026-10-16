@@ -1,7 +1,10 @@
-<div align="center">
-  <h1>Hi 👋, I'm Phyoe Min San</h1>
-  <h3><font color="#2f81f7">💻 Computer Science Student | Full-Stack & Backend Developer</font></h3>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Hi%20👋,%20I'm%20Phyoe%20Min%20San&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4364F7&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+%26+Backend+Developer;PHP+%26+Laravel+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/phyoeminsandev/phyoeminsandev.json?color=007EC6&style=flat-square&label=Profile%20Views" alt="Profile Views" />
@@ -9,7 +12,6 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-0e1116?style=flat-square&color=1f6feb" alt="Focus" />
 </p>
 
-<!--test-->
 <p align="center">
   <a href="https://www.linkedin.com/in/phyoe-min-san-ba018b370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://fb.com/phyoeminsandev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
